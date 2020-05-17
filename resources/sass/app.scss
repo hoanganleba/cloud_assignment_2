@@ -1,0 +1,11 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+$primary: $indigo;
+$secondary: #313a45;
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import 'admin';
